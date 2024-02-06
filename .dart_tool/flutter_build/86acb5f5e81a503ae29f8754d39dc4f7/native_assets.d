@@ -1,0 +1,1 @@
+ C:\\Users\\MSI\\Flutter\\development\\chat_call_app\\.dart_tool\\flutter_build\\86acb5f5e81a503ae29f8754d39dc4f7\\native_assets.yaml: 
